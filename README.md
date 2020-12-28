@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Zeynep Miray
+### I'm Zeynep Miray, from Turkey
 
 - 🔭 I’m currently working on Database Management Systems,Photogrammetry and Remote Sensing...
 - 🌱 I’m currently learning Python,C...
